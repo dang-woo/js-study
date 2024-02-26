@@ -9,8 +9,7 @@
 // // const로 상수 선언
 // const myConst = "Hello World";
 // console.log(myConst); // "Hello World"
-//
-// dd
+
 
 // var로 변수 덮어쓰기
 var myVar = "Hello";
